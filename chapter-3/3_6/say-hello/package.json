@@ -1,0 +1,20 @@
+{
+  "name": "say-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prebuild": "browserify main.js --outfile tmp.js",
+    "build": "babel tmp.js --out-file main.jsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "browserify": "^17.0.0"
+  }
+}

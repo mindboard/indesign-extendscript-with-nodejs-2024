@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "extendscript-debug",
+            "request": "launch",
+            "name": "main.jsx",
+            "script": "${workspaceFolder}/main.jsx",
+            "hostAppSpecifier": "indesign-19",
+            "engineName": "main"
+        }
+    ]
+}

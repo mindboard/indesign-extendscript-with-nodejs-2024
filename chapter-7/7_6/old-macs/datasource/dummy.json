@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "image": "dummy.eps",
+      "title": "MacintoshColor Classic",
+      "description": "description-1"
+    },
+    {
+      "image": "dummy.eps",
+      "title": "PowerBook 100",
+      "description": "description-2"
+    },
+    {
+      "image": "dummy.eps",
+      "title": "iMac G3",
+      "description": "description-3"
+    },
+    {
+      "image": "dummy.eps",
+      "title": "iBook",
+      "description": "description-4"
+    }
+  ]
+}

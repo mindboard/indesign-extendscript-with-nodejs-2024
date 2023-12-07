@@ -1,0 +1,23 @@
+{"list":[
+    {
+        "image":"color-classic.svg",
+        "title":"MacintoshColor Classic",
+        "description":"The Macintosh Color Classic (sold as the Macintosh Colour Classic in PAL regions) is a personal computer designed, manufactured and sold by Apple Computer, Inc. from February 1993 to May 1995 (up to January 1998 in PAL markets). It has an all-in-one design, with a small, integrated 10inch Sony Trinitron display at 512 × 384 pixel resolution. The display is capable of supporting up to thousands of colors with a video memory upgrade."
+    },
+    {
+        "image":"powerbook-100.svg",
+        "title":"PowerBook 100",
+        "description":"The PowerBook 100 is a portable subnotebook personal computer designed and manufactured by Sony for Apple Computer and introduced on October 21, 1991, at the COMDEX computer expo in Las Vegas, Nevada. Priced at US$2,500 with external floppy drive, the PowerBook 100 was the low-end model of the first three simultaneously released PowerBooks."
+    },
+    {
+        "image":"imac-g3.svg",
+        "title":"iMac G3",
+        "description":"The iMac G3, which was originally released as the iMac, is a series of Macintosh personal computers Apple Computer sold from 1998 to 2003. The first iMac was Apple's first major product release under its CEO and co-founder Steve Jobs, who returned to the financially troubled company in 1996 after eleven years away. Jobs reorganized the company and simplified the product line; the iMac was designed as Apple's new consumer desktop product, an inexpensive, consumer-oriented computer that would easily connect to the Internet."
+    },
+    {
+        "image":"ibook.svg",
+        "title":"iBook",
+        "description":"iBook is a line of laptop computers designed, manufactured, and sold by Apple Computer from 1999 to 2006. The line targeted entry-level, consumer and education markets, with lower specifications and prices than the PowerBook, Apple's higher-end line of laptop computers. It was the first mass consumer product to offer Wi-Fi network connectivity, which was then branded by Apple as AirPort."
+    }
+]}
+
